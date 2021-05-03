@@ -14,6 +14,7 @@ class SearchResults extends React.Component {
 
   static defaultProps = {
     icon: settings.defaultColumnIcon,
+    title: 'Search Results',
   }
 
   render() {
